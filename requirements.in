@@ -1,10 +1,9 @@
 jupyterlite-core
 jupyterlite-pyodide-kernel
 jupyterlab
-voici-core
 requests
 altair
 pandas
 tqdm
-voila-material @ git+https://github.com/GLAM-Workbench/voila-material.git
 jinja2
+ipywidgets
